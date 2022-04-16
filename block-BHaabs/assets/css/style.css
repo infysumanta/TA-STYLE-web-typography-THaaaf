@@ -1,0 +1,59 @@
+body {
+  margin: 0 auto;
+  font-size: 16px;
+  line-height: 1.5;
+  background-color: #282e2b;
+}
+.section {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 3em 0;
+}
+
+h1 {
+  font-family: "Patua One", cursive;
+  font-size: 48px;
+  line-height: 1.16666666666;
+  margin-bottom: 30px;
+  color: #ffffff;
+  text-shadow: 3px 3px 5px #000000;
+}
+
+h2 {
+  font-size: 50px;
+  padding-top: 24px;
+  margin-bottom: 12px;
+  word-spacing: 34px;
+  color: #ffffff;
+  font-family: "Patua One", cursive;
+  text-shadow: 3px 3px 5px #000000;
+}
+
+.time,
+.tag {
+  font-size: 25px;
+  color: #f11743;
+  line-height: 1.9;
+  font-family: "Abril Fatface", cursive;
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+.time {
+  color: #d4cbcd;
+}
+
+p {
+  font-size: 20px;
+  margin: 40px 0;
+  color: #f8dede;
+  font-family: "Roboto", sans-serif;
+}
+
+.para {
+  font-size: 20px;
+  margin: 40px 0;
+  color: #f8dede;
+  font-family: "Roboto", sans-serif;
+}
